@@ -1,0 +1,20 @@
+
+.body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+    text: size adjust 55px;
+    -ms-text-justify: auto;
+}
+form{
+    text-align: center;
+}
+.input[type="comments"]{
+   height: 40px;
+    width: 150px;
+}
+
